@@ -6,8 +6,8 @@ vinted = Vinted()
 
 st.title('WeTheCop')
 st.markdown('### Estimer n\'importe quel article !' )
-
-text = st.text_input("Quel est vôtre article ?", 'Votre Texte.')
+st.markdow('#### Notre bot payant : https://mercuresoftware.gumroad.com/l/botVintedDiscord')
+text = st.text_input("Quel est votre article ?", '')
 
 def estimation(article):
         
