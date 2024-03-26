@@ -4,15 +4,13 @@ Estimate the price range of any item using our app!
 
 ### Enter Your Item
 
-Please enter the name of the item you want to estimate:
+Please enter the name of the item you want to estimate.
 
-[Quel est votre article ?](text_input)
 
 ### Estimate
 
-Click the "Estimer" button to get the estimated price range for your item:
+Click the "Estimer" button to get the estimated price range for your item.
 
-[Estimer](button)
 
 ### Results
 
