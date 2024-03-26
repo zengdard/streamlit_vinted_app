@@ -3,12 +3,6 @@ import streamlit as st
 vinted = Vinted()
 
 
-
-st.title('WeTheCop')
-st.markdown('### Estimer n\'importe quel article !' )
-st.markdown('#### Notre bot payant : https://mercuresoftware.gumroad.com/l/botVintedDiscord')
-text = st.text_input("Quel est votre article ?", '')
-
 def estimation(article):
         
         try:
